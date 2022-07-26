@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Maheshdara.portofolio/static/css/main.ca83a80c.css",
+    "main.js": "/Maheshdara.portofolio/static/js/main.53d3038e.js",
+    "static/media/hoc.PNG": "/Maheshdara.portofolio/static/media/hoc.3159cf104064711787fa.PNG",
+    "static/media/sidebar.PNG": "/Maheshdara.portofolio/static/media/sidebar.0ae2ac570dd635083967.PNG",
+    "static/media/g2b.PNG": "/Maheshdara.portofolio/static/media/g2b.9c4171d38b8d326cbb8a.PNG",
+    "static/media/musicapp.PNG": "/Maheshdara.portofolio/static/media/musicapp.a5c18d457a1dc6269838.PNG",
+    "static/media/ecommerce.PNG": "/Maheshdara.portofolio/static/media/ecommerce.1ea4833f8cb990208984.PNG",
+    "static/media/resume.pdf": "/Maheshdara.portofolio/static/media/resume.33d7ad5f46e865bd684c.pdf",
+    "static/media/boy.png": "/Maheshdara.portofolio/static/media/boy.09d92ac3e453b095b26d.png",
+    "static/media/glassesimoji.png": "/Maheshdara.portofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/Maheshdara.portofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/Maheshdara.portofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/Maheshdara.portofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/Maheshdara.portofolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/Maheshdara.portofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/Maheshdara.portofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/Maheshdara.portofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/amazon.PNG": "/Maheshdara.portofolio/static/media/amazon.6258776e15c21f8bf8a4.PNG",
+    "index.html": "/Maheshdara.portofolio/index.html",
+    "main.ca83a80c.css.map": "/Maheshdara.portofolio/static/css/main.ca83a80c.css.map",
+    "main.53d3038e.js.map": "/Maheshdara.portofolio/static/js/main.53d3038e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca83a80c.css",
+    "static/js/main.53d3038e.js"
+  ]
+}
