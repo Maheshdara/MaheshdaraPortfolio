@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/MaheshdaraPortfolio/static/css/main.ca83a80c.css",
-    "main.js": "/MaheshdaraPortfolio/static/js/main.c6abe06d.js",
-    "static/media/hoc.PNG": "/MaheshdaraPortfolio/static/media/hoc.3159cf104064711787fa.PNG",
-    "static/media/sidebar.PNG": "/MaheshdaraPortfolio/static/media/sidebar.0ae2ac570dd635083967.PNG",
-    "static/media/g2b.PNG": "/MaheshdaraPortfolio/static/media/g2b.9c4171d38b8d326cbb8a.PNG",
-    "static/media/musicapp.PNG": "/MaheshdaraPortfolio/static/media/musicapp.a5c18d457a1dc6269838.PNG",
-    "static/media/ecommerce.PNG": "/MaheshdaraPortfolio/static/media/ecommerce.1ea4833f8cb990208984.PNG",
-    "static/media/resume.pdf": "/MaheshdaraPortfolio/static/media/resume.33d7ad5f46e865bd684c.pdf",
-    "static/media/boy.png": "/MaheshdaraPortfolio/static/media/boy.09d92ac3e453b095b26d.png",
-    "static/media/glassesimoji.png": "/MaheshdaraPortfolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
-    "static/media/thumbup.png": "/MaheshdaraPortfolio/static/media/thumbup.e06790ba656f0397cbe5.png",
-    "static/media/humble.png": "/MaheshdaraPortfolio/static/media/humble.c8b32b53675e68978981.png",
-    "static/media/heartemoji.png": "/MaheshdaraPortfolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
-    "static/media/wave.png": "/MaheshdaraPortfolio/static/media/wave.fdfef4069ad90f610990.png",
-    "static/media/crown.png": "/MaheshdaraPortfolio/static/media/crown.dbe416beae9b49b842ab.png",
-    "static/media/Vector2.png": "/MaheshdaraPortfolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
-    "static/media/glasses.png": "/MaheshdaraPortfolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
-    "static/media/amazon.PNG": "/MaheshdaraPortfolio/static/media/amazon.6258776e15c21f8bf8a4.PNG",
-    "index.html": "/MaheshdaraPortfolio/index.html",
-    "main.ca83a80c.css.map": "/MaheshdaraPortfolio/static/css/main.ca83a80c.css.map",
-    "main.c6abe06d.js.map": "/MaheshdaraPortfolio/static/js/main.c6abe06d.js.map"
+    "main.css": "/mahesh-portofolio/static/css/main.ca83a80c.css",
+    "main.js": "/mahesh-portofolio/static/js/main.b8f7eca5.js",
+    "static/media/hoc.PNG": "/mahesh-portofolio/static/media/hoc.3159cf104064711787fa.PNG",
+    "static/media/sidebar.PNG": "/mahesh-portofolio/static/media/sidebar.0ae2ac570dd635083967.PNG",
+    "static/media/g2b.PNG": "/mahesh-portofolio/static/media/g2b.9c4171d38b8d326cbb8a.PNG",
+    "static/media/musicapp.PNG": "/mahesh-portofolio/static/media/musicapp.a5c18d457a1dc6269838.PNG",
+    "static/media/ecommerce.PNG": "/mahesh-portofolio/static/media/ecommerce.1ea4833f8cb990208984.PNG",
+    "static/media/resume.pdf": "/mahesh-portofolio/static/media/resume.33d7ad5f46e865bd684c.pdf",
+    "static/media/boy.png": "/mahesh-portofolio/static/media/boy.09d92ac3e453b095b26d.png",
+    "static/media/glassesimoji.png": "/mahesh-portofolio/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/thumbup.png": "/mahesh-portofolio/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/mahesh-portofolio/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/mahesh-portofolio/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/mahesh-portofolio/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/mahesh-portofolio/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/mahesh-portofolio/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/mahesh-portofolio/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/amazon.PNG": "/mahesh-portofolio/static/media/amazon.6258776e15c21f8bf8a4.PNG",
+    "index.html": "/mahesh-portofolio/index.html",
+    "main.ca83a80c.css.map": "/mahesh-portofolio/static/css/main.ca83a80c.css.map",
+    "main.b8f7eca5.js.map": "/mahesh-portofolio/static/js/main.b8f7eca5.js.map"
   },
   "entrypoints": [
     "static/css/main.ca83a80c.css",
-    "static/js/main.c6abe06d.js"
+    "static/js/main.b8f7eca5.js"
   ]
 }
